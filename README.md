@@ -8,7 +8,7 @@ I build and own web applications end-to-end — currently maintaining **8 produc
 - 🌱 **Deepening:** Next.js App Router, system design, and AI-integrated frontends (LLM streaming, retrieval pipelines)
 - 🛠️ **Recently built:** internal dev-tooling at LG — a React app automating Gerrit code-review workflows, and CLI automation for Jira triage using LLMs
 - 💼 4 years of experience · Worked onsite at LG Electronics HQ, South Korea
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) · nagakailash.p@example.com
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nagakailashp) · nagakailashp@gmail.com
 
 ## Tech I work with
 
